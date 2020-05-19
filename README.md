@@ -1,6 +1,6 @@
 # Investigate A Dataset
 This project involves the use of NumPy, Pandas, Matplotlib, Seaborn and Python to analyze a dataset.<br/>
-The dataset I choose was the Titanic Dataset provided by Kaggle.
+The dataset I choose was the Titanic Dataset provided by [Kaggle](https://www.kaggle.com/hesh97/titanicdataset-traincsv).
 
 
 ## Repository Structure
@@ -13,4 +13,4 @@ The dataset I choose was the Titanic Dataset provided by Kaggle.
           |-- README
 ~~~~~~~
 
-An online version of the report can be viewed here: [Online Report]()
+An online version of the report can be viewed here: [Report](https://tanmayachaudhary.github.io/Investigate_A_Dataset/Titanic%20Dataset%20Investigation.html)
