@@ -14,3 +14,14 @@ The dataset I choose was the Titanic Dataset provided by [Kaggle](https://www.ka
 ~~~~~~~
 
 An online version of the report can be viewed here: [Report](https://tanmayachaudhary.github.io/Investigate_A_Dataset/Titanic%20Dataset%20Investigation.html)
+
+
+## Output Snapshots
+**Q1-> Which gender had a better chance of survival?**
+![Q1 Answer](q1.png)
+
+**Which social class had a better chance of survival?**
+![Q2 Answer](q2.png)
+
+**Which age group had a better chance of survival?**
+![Q3 Answer](q3.png)
