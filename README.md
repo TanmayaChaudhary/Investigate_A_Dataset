@@ -20,8 +20,8 @@ An online version of the report can be viewed here: [Report](https://tanmayachau
 **Q1-> Which gender had a better chance of survival?**
 ![Q1 Answer](q1.png)
 
-**Which social class had a better chance of survival?**
+**Q2-> Which social class had a better chance of survival?**
 ![Q2 Answer](q2.png)
 
-**Which age group had a better chance of survival?**
+**Q3-> Which age group had a better chance of survival?**
 ![Q3 Answer](q3.png)
